@@ -1,4 +1,4 @@
 # activemq
+# 重新触发构建
 
-
-docker login --username=lhc****@foxmail.com registry.cn-shanghai.aliyuncs.com
+docker login --username=lhchong@foxmail.com registry.cn-shanghai.aliyuncs.com
